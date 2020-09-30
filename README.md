@@ -8,7 +8,7 @@ started as a software engineer!
 #### 📬  Get in touch!
 - **Email:** alexbochman22@gmail.com
 - **LinkdIn:** [www.linkedin.com/in/alexander-bochman](https://www.linkedin.com/in/alexander-bochman-25137014a/)
-- **Website:** alexbochman.github.io
+- **Website:** [alexbochman.github.io](https://alexbochman.github.io/)
 
 
 
