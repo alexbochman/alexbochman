@@ -1,5 +1,5 @@
 
-## Hello, Alex Bochman here! 👋
+## Hey, Alex Bochman here! 👋
 
 I'm currently studying computer science student at the University of Massachusetts Lowell. I'm interested in 
 learning new things, software engineering, and all things tech. Additionally, I'm looking for work getting 
