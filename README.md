@@ -6,8 +6,9 @@ learning new things, software engineering, and all things tech. Additionally, I'
 started as a software engineer!
 
 ## 📬  Get in touch!
-|[Email](mailto:alexbochman22@gmail.com)|[LinkdIn](https://www.linkedin.com/in/alexander-bochman-25137014a/)|[Website](https://alexbochman.github.io/)|
-|---|---|---|
+- **Email   :** alexbochman22@gmail.com
+- **LinkdIn :** [www.linkedin.com/in/alexander-bochman](https://www.linkedin.com/in/alexander-bochman-25137014a/)
+- **Website :** [alexbochman.github.io](https://alexbochman.github.io/)
 
 
 
