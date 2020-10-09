@@ -7,7 +7,7 @@ started as a software engineer! Resume going up on my website soon!
 
 ## 📬  Get in touch!
 - **Email:** alexbochman22@gmail.com
-- **LinkdIn:** [www.linkedin.com/in/alexander-bochman](https://www.linkedin.com/in/alexander-bochman-25137014a/)
+- **LinkedIn:** [www.linkedin.com/in/alexander-bochman](https://www.linkedin.com/in/alexander-bochman-25137014a/)
 - **Website:** [alexbochman.github.io](https://alexbochman.github.io/)
 
 
