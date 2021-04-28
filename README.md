@@ -6,7 +6,7 @@
 ## 📬  Get in touch!
 - **Email:** alexbochman22@gmail.com
 - **LinkedIn:** [www.linkedin.com/in/alexander-bochman](https://www.linkedin.com/in/alexander-bochman-25137014a/)
-- **Website:** [alexbochman.github.io](https://alexbochman.github.io/)
+- **Portfolio Website:** [alexbochman.github.io](https://alexbochman.github.io/)
 
 
 
