@@ -1,7 +1,10 @@
 
 ## Yo, Alex Bochman here! 👋
 
-> Computer science undergraduate at the University of Massachusetts Lowell. I'm interested in software engineering and full stack development. Currently working as a Cybersecurity Engineer at Beyond Mission Capable Solutions.
+👨‍💻 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗯𝗼𝘂𝘁 𝗖𝗿𝗮𝗳𝘁𝗶𝗻𝗴 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀
+
+> Proud graduate of the University of Massachusetts Lowell with a degree in Computer Science. I have a keen interest in software engineering and full-stack development. Currently, I'm immersed in the world of cybersecurity as an Application Security Engineer at MoonTiger.
+
 
 ## 📬  Get in touch!
 - **Email:** alexbochman22@gmail.com
