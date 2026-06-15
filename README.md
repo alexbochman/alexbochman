@@ -8,7 +8,7 @@ Computer Science graduate from the University of Massachusetts Lowell, currently
 
 **Moon Tiger** (Apr 2023 - Present)
 - **Toolchain Engineer** (Sep 2025 - Present): Building and maintaining development tooling for STARBASE IL4/5 environments
-- **Application Developer** (Nov 2024 - Sep 2025): Developed Section31/Starfox application for Space Force operators, including deployment to JWICS environments and migration to Palantir Foundry
+- **Software Engineerr** (Nov 2024 - Sep 2025): Developed Section31/Starfox application for Space Force operators, including deployment to JWICS environments and migration to Palantir Foundry
 - **Cybersecurity Engineer** (Apr 2023 - Nov 2024): Built security automation tooling, performed application security reviews and code analysis, supported vulnerability triage and remediation
 
 **Previous Roles**
